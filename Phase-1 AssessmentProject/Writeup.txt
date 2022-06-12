@@ -1,0 +1,30 @@
+The flow and features of the application:
+
+problem statement: creating a protocol of file handling to perform 
+various methods like add, delete, search, sort and end application through 
+user interaction in console/command line output
+	 
+	 Basically writing a java code, where operations are planned to be 
+	 completed in 3 sprints 
+	 
+	 1.Retrieve & set files in ascending order(sorting)
+	 2.Performing business level operations
+	 		A)add--creating a file
+	  		B)delete--delete an existing file
+	  		C)search--search an existing file
+	  		D)Go Back--just breaking the loop
+	 3.Close the application
+	
+Used the following:
+
+1.Eclipse: An IDE to code for the application 
+2.Java: A programming language to develop the prototype 
+3.Git: To connect and push files from the local system to GitHub 
+4.GitHub: To store the application code and track its versions 
+5.Scrum: An efficient agile framework to deliver the product incrementally 
+6.Search and Sort techniques are used in the project 
+7.Implemented the concepts such as exceptions, collections, and sorting techniques 
+ for source code optimization and increased performance 
+
+
+
